@@ -1,0 +1,8 @@
+bookmark:- published newsupcoming news submit a new story groupsregister login profile
+PunBB:- powerd by Punbb
+Directory submission:- free directory submission site
+forum profile:- allinurl:action=profile;u=
+PhpBB:- powerd by phpbb
+vBulletin:- powerd by vbulletin
+XMB:- powerd by xmb
+yabb:- powerd by yabb
